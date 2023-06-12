@@ -1,12 +1,27 @@
 {
   "name": "awesome-book-with-jsmodules",
   "version": "1.0.0",
-  "description": "",
+  "description": "Awesome-Books is a basic website that allows users to add/remove books from a list.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuriEnciso/Awesome-Books.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RuriEnciso/Awesome-Books/issues"
+  },
+  "homepage": "https://github.com/RuriEnciso/Awesome-Books#readme",
+  "devDependencies": {
+    "hint": "^7.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
 }
