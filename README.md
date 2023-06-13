@@ -45,17 +45,11 @@ After you're finished please remove all the comments and instructions!
   <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -71,8 +65,6 @@ It is a basic website made with HTML, CSS, and JavaScript.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
 <details>
   <summary>Client</summary>
@@ -114,28 +106,7 @@ It is a basic website made with HTML, CSS, and JavaScript.
 
 <!-- - [ Website Live Demo Link]() -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-<!-- > Describe how a new developer could make use of your project. -->
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-cd my-folder
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ### Setup
 
@@ -143,66 +114,7 @@ Clone this repository to your desired folder:
 
 Example commands:
 
-git clone git@github.com:RuriEnciso/Portfolio_project_2.git
-
-
-### Install
-
-Install this project with:
-
-No installation needed
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-Open it in your browser
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-Don't need tests
-
-<!-- To run tests, run the following command:-->
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-No deployment available 
-<!-- You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
+git clone git@github.com:RuriEnciso/Awesome-Books.git
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -214,15 +126,9 @@ Example:
 - Twitter: [@twitterRuriEnciso](https://twitter.com/rurienciso)
 - LinkedIn: [LinkedInRuriEnciso](https://www.linkedin.com/in/ruri-enciso/)
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
 ## 🔭 Future Features <a name="future-features"></a>
-
-<!-- > Describe 1 - 3 features you will add to the project.-->
 
 - [ ] **[social media integrations]**
 - [ ] **[user experience]**
