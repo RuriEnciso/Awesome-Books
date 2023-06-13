@@ -1,4 +1,5 @@
-import { addBook, removeBook } from './bookUtils.js'
+import { addBook, removeBook } from './bookUtils.js';
+
 class BookList {
   constructor() {
     this.books = [];
@@ -7,7 +8,7 @@ class BookList {
   }
 
   addBook = () => {
-    addBook(this); 
+    addBook(this);
   }
 
   loadBooks = () => {
@@ -46,7 +47,6 @@ class BookList {
   removeBook = (book) => {
     removeBook(this, book);
   }
-
 }
 
 export default BookList;
