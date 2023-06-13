@@ -1,4 +1,5 @@
 import { addBook, removeBook } from './bookUtils.js';
+import displayBook from './displayBook.js';
 
 class BookList {
   constructor() {
@@ -22,26 +23,7 @@ class BookList {
   }
 
   displayBook = (book) => {
-    const bookList = document.getElementById('booklist');
-    const table = document.createElement('table');
-    table.classList.add('table', 'table-striped');
-    table.innerHTML = `
-        <tr>
-        <td>
-          "${book.title}" by 
-          ${book.author}
-          </td>
-          <td>
-          <button type="button" class="remove-btn">Remove</button></td>
-        </tr>
-      `;
-    bookList.appendChild(table);
-
-    const removeButton = table.querySelector('.remove-btn');
-    removeButton.addEventListener('click', () => {
-      this.removeBook(book);
-      table.remove();
-    });
+    displayBook(book, document.getElementById('booklist'), this.removeBook);
   }
 
   removeBook = (book) => {
