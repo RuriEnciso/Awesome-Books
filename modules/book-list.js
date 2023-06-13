@@ -7,7 +7,7 @@ class BookList {
     this.loadBooks();
   }
 
-  addBook() {
+  addBook = () => {
     const addBtn = document.getElementById('add-btn');
     addBtn.addEventListener('click', () => {
       const storedTitle = localStorage.getItem('title');
@@ -32,7 +32,7 @@ class BookList {
     });
   }
 
-  loadBooks() {
+  loadBooks = () => {
     const storedBooks = localStorage.getItem('books');
     if (storedBooks) {
       this.books = JSON.parse(storedBooks);
@@ -42,7 +42,7 @@ class BookList {
     }
   }
 
-  displayBook(book) {
+  displayBook = (book) => {
     const bookList = document.getElementById('booklist');
     const table = document.createElement('table');
     table.classList.add('table', 'table-striped');
@@ -65,7 +65,7 @@ class BookList {
     });
   }
 
-  removeBook(book) {
+  removeBook = (book) => {
     const index = this.books.indexOf(book);
     if (index !== -1) {
       this.books.splice(index, 1);
