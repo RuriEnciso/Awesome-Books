@@ -236,15 +236,13 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/RuriEnciso/capstone1-concert-web/issues).
+Feel free to check the [issues page](https://github.com/RuriEnciso/Awesome-Books/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-<!-- > Write a message to encourage readers to support your project -->
 
 If you like this project can improve
 
@@ -253,8 +251,6 @@ If you like this project can improve
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-<!-- > Give credit to everyone who inspired your codebase.-->
 
 Very grateful to my code reviewers and coding partners at microverse program.
 * <a href="https://www.behance.net/adagio07" target="_blank" rel="noopener">Cindy Shin in Behance</a> for this web layout.
