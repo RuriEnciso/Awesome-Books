@@ -42,7 +42,7 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
 - [👥 Authors](#authors)
@@ -92,21 +92,21 @@ It is a basic website made with HTML, CSS, and JavaScript.
 ### Key Features <a name="key-features"></a>
 <!-- > Describe between 1-3 key features of the application. -->
 
-- **[Responsive]**
-- **[focused on flexbox and Grid]**
+- **[SPA]**
+- **[luxo library]**
 - **[Accesible Website]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
 <!-- > Add a link to your deployed project. -->
 
-<!-- - [ Website Live Demo Link]() -->
+- [ Website Live Demo Link](https://rurienciso.github.io/Awesome-Books/)
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
