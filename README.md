@@ -159,7 +159,12 @@ If you like this project can improve
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 Very grateful to my code reviewers and coding partners at microverse program.
-* <a href="https://www.behance.net/adagio07" target="_blank" rel="noopener">Cindy Shin in Behance</a> for this web layout.
+<!-- * <a href="https://www.behance.net/adagio07" target="_blank" rel="noopener">Cindy Shin in Behance</a> for this web layout. -->
+
+👤 **Syeda Masuma Fatima**
+- GitHub: [@MasumaJaffery](https://github.com/MasumaJaffery)
+- Twitter: [@MasumaJaffery](https://twitter.com/MasumaJaffery)
+- LinkedIn: [Masuma Jaffery](https://www.linkedin.com/in/masuma-jaffery-797a29256/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
