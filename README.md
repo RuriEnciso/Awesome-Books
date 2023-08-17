@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 **Awesome Books project** 
 Awesome-Books is a basic website that allows users to add/remove books from a list.
-It is a basic website made with HTML, CSS, and JavaScript. 
+It is a basic website made with HTML, CSS, and JavaScript.  
 
 ## 🛠 Built With <a name="built-with"></a>
 
