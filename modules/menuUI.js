@@ -19,6 +19,7 @@ const showContact = () => {
   AddBook.style.display = 'none';
   Contact.style.display = 'flex';
   Contact.innerHTML = `
+  <h2>Contact Us</h2>
   <p>Do have any questions or you just want to say "Hello"?
   You can reach out to us!</p>
   <ul>

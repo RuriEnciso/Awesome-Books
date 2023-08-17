@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Lato', sans-serif;
+  font-weight: 800;
 }
 
 a {
@@ -19,10 +20,6 @@ main {
   margin-top: 2rem;
 }
 
-h2 {
-  font-size: 26px;
-}
-
 form {
   display: flex;
   flex-direction: column;
@@ -35,7 +32,8 @@ form #add-btn {
   align-items: flex-end;
   color: #000;
   border: 3px solid #000;
-  padding: 2%;
+  border-radius: 8px;
+  padding: 3%;
 }
 
 #booklist {
@@ -132,7 +130,7 @@ img {
   justify-content: space-around;
   flex-direction: column;
   align-items: center;
-  margin-top: 1.8rem;
+  margin-top: 10rem;
 }
 
 #contact p {
